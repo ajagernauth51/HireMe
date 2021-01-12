@@ -1,0 +1,92 @@
+.ima {
+    height: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 15px 15px;
+}
+
+body {
+    background-image: url("https://cdn.shopify.com/s/files/1/0010/0994/2575/products/2066-70-lightblue_0e38026d-498a-45d9-8dcb-5f05f37baa9f_2000x.png?v=1576883959");
+}
+
+.ten {
+    color: #e75480;
+    font-family: Lobster, cursive;
+}
+
+.name {
+    color: #8a0303;
+    font-family: 'Fredoka One', cursive;
+}
+
+.p {
+    color: #e75480;
+    font-size: 45px;
+    font-family: 'Indie Flower', cursive;
+}
+
+.h {
+    color: #8a0303;
+    font-size: 45px;
+    font-family: Lobster, cursive;
+}
+
+.ima2 {
+    height: 150px;
+}
+
+.ima3 {
+    height: 150px;
+    width: 150px;
+}
+
+hr.solid {
+    border-top: 20px solid;
+}
+
+.q2 {
+    color: #e75480;
+    font-size: 45px;
+    font-family: 'Indie Flower', cursive;
+}
+
+.qa {
+    color: #8a0303;
+    font-size: 45px;
+    font-family: Lobster, cursive;
+}
+
+.g {
+    height: 200px;
+}
+
+.h {
+    height: 250px;
+}
+
+.ima4 {
+    height: 150px;
+}
+
+.y {
+    color: #e75480;
+    font-size: 25px;
+}
+
+.ml {
+    color: #e75480;
+    font-size: 25px;
+}
+
+.q3 {
+    color: #e75480;
+    font-size: 45px;
+    font-family: 'Indie Flower', cursive;
+}
+
+.q3a {
+    color: #8a0303;
+    font-size: 45px;
+    font-family: Lobster, cursive;
+}
